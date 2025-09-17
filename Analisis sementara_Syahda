@@ -1,0 +1,5 @@
+Pada praktikum kali ini menggunakan sistem klasifikasi gambar real-time dengan Convolutional Neural Network (CNN) dengan TensorFlow dan OpenCV
+Percobaan yang dilakukan menggunakan dataset yang didownload pada Kaggle untuk menambahkan agar objek terdeteksi dengan baik
+Output berupa tampilan dengan 2 frame yang berbeda dimana salah satu terdapat label untuk deteksi objek dan satunya merupakan fitur Night Vision
+Selain itu pada percobaan yang dilakukan dapat mendeteksi 6 kelas seperti gunung, laut, hutan, jalan, bangunan, dan kutub es
+Terdapat faktor yang mempengaruhi deteksi objek seperti kamera, pencahayaan yang susah dan juga sinyal internet yang kadang saat running terjadi kendala atau lemot atau juga eror
